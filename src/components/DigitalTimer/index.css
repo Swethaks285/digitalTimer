@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(#ffffff, #cffcf1);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+}
+
+.head {
+  color: #1e293b;
+}
+
+.img {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.imgs {
+  width: 30px;
+  height: 30px;
+}
